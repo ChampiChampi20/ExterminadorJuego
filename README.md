@@ -24,3 +24,7 @@
 
 - Juego sobre el exterminador donde tenemos un personaje que podemos manipularlo a nuestro antojo
 - controles de mov. A,W,S,D,SPACE
+
+##  Otro Juego de movimientos
+- Proyecto Goku
+- Controles de mov. SPACE, LEFT, RIGHT, UP, DOWN
